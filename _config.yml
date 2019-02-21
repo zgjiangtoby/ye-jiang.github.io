@@ -3,6 +3,5 @@ title: Ye Jiang
 author: Ye Jiang
 github:
   is_project_page: false
-markdown: kramdown
-kramdown:
-  input: GFM  
+plugins:
+  - jekyll-responsive-image
