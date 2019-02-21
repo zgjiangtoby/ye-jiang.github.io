@@ -4,3 +4,4 @@ author: Ye Jiang
 header: images/my_head.JPG
 github:
   is_project_page: false
+  repository_url: false
