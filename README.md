@@ -1,6 +1,6 @@
 ## Welcome to Ye Jiang's homepage.
 
-I am a Ph.D student supervised by Dr.Diana Maynard(http://staffwww.dcs.shef.ac.uk/people/D.Maynard/) in the Department of Computer Science at the University of Sheffield(https://www.sheffield.ac.uk/).
+I am a Ph.D student supervised by [Dr.Diana Maynard](http://staffwww.dcs.shef.ac.uk/people/D.Maynard/) in the Department of Computer Science at the [University of Sheffield](https://www.sheffield.ac.uk/).
 
 
 ### Markdown
