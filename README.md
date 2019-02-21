@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to Ye Jiang's homepage.
 
-You can use the [editor on GitHub](https://github.com/ye-jiang/ye-jiang.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am a Ph.D student supervised by Dr.Diana Maynard(http://staffwww.dcs.shef.ac.uk/people/D.Maynard/) in the Department of Computer Science at the University of Sheffield(https://www.sheffield.ac.uk/).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
