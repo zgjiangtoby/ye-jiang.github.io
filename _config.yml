@@ -1,7 +1,4 @@
 theme: jekyll-theme-hacker
 title: Ye Jiang
 author: Ye Jiang
-github:
-  is_project_page: false
-plugins:
-  - jekyll-responsive-image
+header: images/my_head.JPG
