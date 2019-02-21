@@ -1,6 +1,6 @@
-<img src="https://ye-jiang.github.io/images/my_head.JPG" width="135" height="200">
-## Welcome to Ye Jiang's homepage.
 
+## Welcome to Ye Jiang's homepage.
+<img src="https://ye-jiang.github.io/images/my_head.JPG" width="135" height="200" align="right">
 I am a Ph.D student supervised by [Dr.Diana Maynard](http://staffwww.dcs.shef.ac.uk/people/D.Maynard/) in the Department of Computer Science at the [University of Sheffield](https://www.sheffield.ac.uk/).
 
 I am interested in using deep learning approaches for text classification, topic generating, and document summarization. 
