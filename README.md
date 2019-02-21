@@ -5,6 +5,10 @@ I am a Ph.D student supervised by [Dr.Diana Maynard](http://staffwww.dcs.shef.ac
 
 I am interested in using deep learning approaches for text classification, topic generating, and document summarization. 
 
+
+
+
+
 ## Contact
 
 *   Address: Room G30, The Department of Computer Science, Regent Court, 211 Portobello, Sheffield, S1 4DP, UK.
