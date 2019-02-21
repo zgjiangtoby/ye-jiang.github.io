@@ -12,6 +12,6 @@ I am interested in using deep learning approaches for text classification, topic
 ## Publication
 
 *  Sentence length, sentence fragment and images affecting presentation of search result pages.
->  Hong Xu, Ye Jiang, Yimin Wang, Yewei Sun, Xueqing Li. (2015). Proceedings of the 2015 JIMET Conference, 2015.
+<dd>Hong Xu, Ye Jiang, Yimin Wang, Yewei Sun, Xueqing Li. (2015). Proceedings of the 2015 JIMET Conference, 2015.</dd>
 *  Comparing Attitudes to Climate Change in the Media using sentiment analysis based on Latent Dirichlet Allocation.
 >  Ye Jiang, Xingyi Song, Jackie Harrison, Shaun Quegan, and Diana Maynard. Proceedings of the 2017 EMNLP Workshop: Natural   Language Processing meets Journalism, 2017.
