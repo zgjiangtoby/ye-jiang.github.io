@@ -1,6 +1,6 @@
 ## Welcome to Ye Jiang's homepage.
 
-<img src=""http://images.weserv.nl/?url=ye-jiang.github.io/images/my_head.JPG&w=200&h=200&output=jpg&q=65" />
+![](/images/my_head.JPG){:class="img-responsive"}
 
 I am a Ph.D student supervised by [Dr.Diana Maynard](http://staffwww.dcs.shef.ac.uk/people/D.Maynard/) in the Department of Computer Science at the [University of Sheffield](https://www.sheffield.ac.uk/).
 
