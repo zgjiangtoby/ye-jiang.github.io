@@ -6,4 +6,4 @@ I am interested in using deep learning approaches for text classification, topic
 
 ## Contact
 
->> Email: yjiang18@sheffield.ac.uk
+'< Email: yjiang18@sheffield.ac.uk>'
