@@ -9,6 +9,7 @@ I am interested in using deep learning approaches for text classification, topic
 
 *   Address: Room G30, The Department of Computer Science, Regent Court, 211 Portobello, Sheffield, S1 4DP, UK.
 *   Email: yjiang18@sheffield.ac.uk
+*   [LinkedIn](https://www.linkedin.com/in/ye-jiang-357162175/)
 
 ## Publication
 -  Comparing Attitudes to Climate Change in the Media using sentiment analysis based on Latent Dirichlet Allocation.  
