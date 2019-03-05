@@ -1,5 +1,5 @@
 
-## Welcome to Ye Jiang's homepage.
+## About me
 <img src="https://ye-jiang.github.io/images/my_head.JPG" width="135" height="200" align="right">
 I am a Ph.D student supervised by [Dr.Diana Maynard](http://staffwww.dcs.shef.ac.uk/people/D.Maynard/) in the [GATE NLP group ](https://gate.ac.uk/) Department of Computer Science at the [University of Sheffield](https://www.sheffield.ac.uk/). I am also a [Grantham Scholar](http://grantham.sheffield.ac.uk/scholars/jiang/) in the [Grantham Centre for Sustainable Futures](http://grantham.sheffield.ac.uk/).
 
