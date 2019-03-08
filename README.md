@@ -13,10 +13,10 @@ My research interests lie in many NLP research topics, including machine learnin
 
 ## Publication
 -  Comparing Attitudes to Climate Change in the Media using sentiment analysis based on Latent Dirichlet Allocation.  
-Ye Jiang, Xingyi Song, Jackie Harrison, Shaun Quegan, and Diana Maynard. Proceedings of the 2017 EMNLP Workshop: Natural   Language Processing meets Journalism, 2017. [PDF](http://www.aclweb.org/anthology/W17-4205)
+**Ye Jiang**, Xingyi Song, Jackie Harrison, Shaun Quegan, and Diana Maynard. Proceedings of the 2017 EMNLP Workshop: Natural   Language Processing meets Journalism, 2017. [PDF](http://www.aclweb.org/anthology/W17-4205)
 
 -  Sentence length, sentence fragment and images affecting presentation of search result pages.  
-Hong Xu, Ye Jiang, Yimin Wang, Yewei Sun, Xueqing Li. Proceedings of the 2015 JIMET Conference, 2015. [PDF](https://www.atlantis-press.com/proceedings/jimet-15/25843728)
+Hong Xu, **Ye Jiang**, Yimin Wang, Yewei Sun, Xueqing Li. Proceedings of the 2015 JIMET Conference, 2015. [PDF](https://www.atlantis-press.com/proceedings/jimet-15/25843728)
    
 
 
