@@ -24,5 +24,5 @@ Hong Xu, ***Ye Jiang***, Yimin Wang, Yewei Sun, Xueqing Li. Proceedings of the 2
 ## Project
 
 - [Semantic Evaluation 2019, Task 4: Hyperpartisan News Detection.](https://github.com/GateNLP/semeval2019-hyperpartisan-bertha-von-suttner) 
-This is the code for the SemEval 2019 Task 4, Hyperpartisan News Detection submitted by team Bertha von Suttner. The model created with this was the winning entry, see the [public leaderboard](https://www.tira.io/task/hyperpartisan-news-detection/dataset/pan19-hyperpartisan-news-detection-by-article-test-dataset-2018-12-07/).
+This is the code for the SemEval 2019 Task 4, Hyperpartisan News Detection submitted by team Bertha von Suttner. The model created with this was the winning entry, see the [public leaderboard](https://pan.webis.de/semeval19/semeval19-web/leaderboard.html).
 
