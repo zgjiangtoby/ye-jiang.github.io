@@ -21,5 +21,8 @@ My research interests lie in many NLP research topics, including machine learnin
 -  Sentence length, sentence fragment and images affecting presentation of search result pages.  
 Hong Xu, ***Ye Jiang***, Yimin Wang, Yewei Sun, Xueqing Li. Proceedings of the 2015 JIMET Conference, 2015. [PDF](https://www.atlantis-press.com/proceedings/jimet-15/25843728)
    
+## Project
 
+- [Semantic Evaluation 2019, Task 4: Hyperpartisan News Detection.](https://github.com/GateNLP/semeval2019-hyperpartisan-bertha-von-suttner) 
+This is the code for the SemEval 2019 Task 4, Hyperpartisan News Detection submitted by team Bertha von Suttner. The model created with this was the winning entry, see the [public leaderboard](https://www.tira.io/task/hyperpartisan-news-detection/dataset/pan19-hyperpartisan-news-detection-by-article-test-dataset-2018-12-07/).
 
