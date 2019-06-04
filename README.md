@@ -12,6 +12,9 @@ My research interests lie in many NLP research topics, including machine learnin
 *   [LinkedIn](https://www.linkedin.com/in/ye-jiang-357162175/)
 
 ## Publication
+-  Team Bertha von Suttner at SemEval-2019 Task 4: Hyperpartisan News Detection using ELMo Sentence Representation Convolutional Network.
+***Ye Jiang***, Johann Petrak, Xingyi Song, Kalina Bontcheva, and Diana Maynard. Proceedings of the 13th International Workshop on Semantic Evaluation, 2019. [PDF](https://www.aclweb.org/anthology/S19-2146)
+
 -  Comparing Attitudes to Climate Change in the Media using sentiment analysis based on Latent Dirichlet Allocation.  
 ***Ye Jiang***, Xingyi Song, Jackie Harrison, Shaun Quegan, and Diana Maynard. Proceedings of the 2017 EMNLP Workshop: Natural   Language Processing meets Journalism, 2017. [PDF](http://www.aclweb.org/anthology/W17-4205)
 
