@@ -11,7 +11,7 @@ My research interests lie in many NLP research topics, including machine learnin
 *   Email: yjiang18 (AT) sheffield.ac.uk
 *   [LinkedIn](https://www.linkedin.com/in/ye-jiang-357162175/)
 
-## Publication
+## Publications
 -  Yimin Wang, Jiajia Liu, ***Ye Jiang***, and Robert Erdélyi. CME Arrival Time Prediction Using Convolutional Neural Network. The Astrophysical Journal, 2019. 881(1): 15. [PDF](https://doi.org/10.3847/1538-4357/ab2b3e)
 
 -  ***Ye Jiang***, Johann Petrak, Xingyi Song, Kalina Bontcheva, and Diana Maynard. Team Bertha von Suttner at SemEval-2019 Task 4: Hyperpartisan News Detection using ELMo Sentence Representation Convolutional Network. Proceedings of the 13th International Workshop on Semantic Evaluation, 2019. [PDF](https://www.aclweb.org/anthology/S19-2146)
@@ -20,7 +20,7 @@ My research interests lie in many NLP research topics, including machine learnin
 
 -  Hong Xu, ***Ye Jiang***, Yimin Wang, Yewei Sun, Xueqing Li. Sentence length, sentence fragment and images affecting presentation of search result pages. Proceedings of the 2015 JIMET Conference, 2015. [PDF](https://www.atlantis-press.com/proceedings/jimet-15/25843728)
    
-## Project
+## Projects
 - [Topic-Aware Hierarchical Document Representation for News Biased Detection](https://github.com/yjiang18/Topical-Aware-Hierarchical-Document-Representation-for-Detecting-Bias-in-News-Articles)
 A Keras implementation of the Hierarchical Attention Network (Yang et al, 2016) incorporating with LDA topic distributions.
 - [Semantic Evaluation 2019, Task 4: Hyperpartisan News Detection.](https://github.com/GateNLP/semeval2019-hyperpartisan-bertha-von-suttner) 
