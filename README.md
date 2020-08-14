@@ -28,5 +28,5 @@ This is the code of several models, includes RNN with attention, CNN with BatchN
 - [Topic-Aware Hierarchical Document Representation for News Biased Detection](https://github.com/yjiang18/Topical-Aware-Hierarchical-Document-Representation-for-Detecting-Bias-in-News-Articles)
 A Keras implementation of the Hierarchical Attention Network (Yang et al, 2016) incorporating with LDA topic distributions.
 - [Semantic Evaluation 2019, Task 4: Hyperpartisan News Detection.](https://github.com/GateNLP/semeval2019-hyperpartisan-bertha-von-suttner) 
-This is the code for the SemEval 2019 Task 4, Hyperpartisan News Detection submitted by team Bertha von Suttner. The model created with this was the winning entry, see the [public leaderboard](https://pan.webis.de/semeval19/semeval19-web/leaderboard.html).
+This is the code for the SemEval 2019 Task 4, Hyperpartisan News Detection submitted by team Bertha von Suttner. The model created with this was the winning entry, see the [public leaderboard](https://pan.webis.de/semeval19/semeval19-web/).
 
