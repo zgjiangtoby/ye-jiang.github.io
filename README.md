@@ -1,9 +1,9 @@
 
 ## About me
 <img src="https://ye-jiang.github.io/images/my_head.JPG" width="135" height="200" align="right">
-I am a Ph.D student supervised by [Dr.Diana Maynard](http://staffwww.dcs.shef.ac.uk/people/D.Maynard/) and a Research Associate managed by [Prof.Kalina Bontcheva](https://staffwww.dcs.shef.ac.uk/people/K.Bontcheva/) at the [GATE NLP group ](https://gate.ac.uk/) Department of Computer Science [University of Sheffield](https://www.sheffield.ac.uk/). I am also a [Grantham Scholar](http://grantham.sheffield.ac.uk/scholars/jiang/) at the [Grantham Centre for Sustainable Futures](http://grantham.sheffield.ac.uk/).
+I am a Research Associate at the [GATE NLP group ](https://gate.ac.uk/) Department of Computer Science [University of Sheffield](https://www.sheffield.ac.uk/). I am also a [Grantham Scholar](http://grantham.sheffield.ac.uk/scholars/jiang/) at the [Grantham Centre for Sustainable Futures](http://grantham.sheffield.ac.uk/).
 
-My research interests lie in many NLP research topics, including machine learning approaches for text classification, topic modelling and representation learning. 
+My research interests lie in many NLP research topics, including machine learning approaches for topic modelling, online disinformation and abuse detection, text classification, document/sentence representation learning and explainable AI. 
 
 ## Contact
 
@@ -13,7 +13,10 @@ My research interests lie in many NLP research topics, including machine learnin
 
 ## Publications
 
+-  (Minor Correction) Jiajia Liu, Yimin Wang, Xin Huang, Marianna Korsos, Ye Jiang, Yuming Wang, Robert Erd´elyi. Reliability of AI-generated magnetograms from only EUV images. Nature Astronomy, 2021.
+
 -  Ye Jiang, Yimin Wang, Xingyi Song, Diana Maynard. Comparing topic-aware neural networks for bias detection of news. Proceeding of ECAI 2020. [PDF](https://www.researchgate.net/publication/340861256_Comparing_topic-aware_neural_networks_for_bias_detection_of_news)
+
 -  Yimin Wang, Jiajia Liu, Ye Jiang, and Robert Erdélyi. CME Arrival Time Prediction Using Convolutional Neural Network. The Astrophysical Journal, 2019. 881(1): 15. [PDF](https://doi.org/10.3847/1538-4357/ab2b3e)
 
 -  Ye Jiang, Johann Petrak, Xingyi Song, Kalina Bontcheva, and Diana Maynard. Team Bertha von Suttner at SemEval-2019 Task 4: Hyperpartisan News Detection using ELMo Sentence Representation Convolutional Network. Proceedings of the 13th International Workshop on Semantic Evaluation, 2019. [PDF](https://www.aclweb.org/anthology/S19-2146)
