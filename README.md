@@ -8,7 +8,7 @@ My research interests lie in many NLP research topics, including machine learnin
 ## Contact
 
 *   Address: Room G30, Department of Computer Science, Regent Court, 211 Portobello, Sheffield, S1 4DP, UK.
-*   Email: yjiang18 (AT) sheffield.ac.uk
+*   Email: ye.jiang (AT) sheffield.ac.uk
 *   [LinkedIn](https://www.linkedin.com/in/ye-jiang-357162175/)
 
 ## Publications
