@@ -1,7 +1,9 @@
 
 ## About me
 <img src="https://ye-jiang.github.io/images/my_head.JPG" width="135" height="200" align="right">
-I am a Research Associate at the [GATE NLP group ](https://gate.ac.uk/) Department of Computer Science [University of Sheffield](https://www.sheffield.ac.uk/). I am also a [Grantham Scholar](http://grantham.sheffield.ac.uk/scholars/jiang/) at the [Grantham Centre for Sustainable Futures](http://grantham.sheffield.ac.uk/).
+
+-  Research associate at the [GATE NLP group ](https://gate.ac.uk/) Department of Computer Science [University of Sheffield](https://www.sheffield.ac.uk/). 
+-  [Grantham scholar](http://grantham.sheffield.ac.uk/scholars/jiang/) at the [Grantham Centre for Sustainable Futures](http://grantham.sheffield.ac.uk/).
 
 My research interests lie in many NLP research topics, including machine learning approaches for topic modelling, online disinformation and abuse detection, text classification, document/sentence representation learning and explainable AI. 
 
