@@ -30,6 +30,6 @@ My research interests lie in many NLP research topics, including machine learnin
 ## Projects
 - [EUvsVirus: Detecting Covid-19 Online Disinformation](https://github.com/yjiang18/CoronalVirus_Disinformation)
 - [Topic-Aware Hierarchical Document Representation for News Biased Detection](https://github.com/yjiang18/Topical-Aware-Hierarchical-Document-Representation-for-Detecting-Bias-in-News-Articles)
-- [Semantic Evaluation 2019, Task 4: Hyperpartisan News Detection (Frist place)](https://github.com/GateNLP/semeval2019-hyperpartisan-bertha-von-suttner) 
+- [Semantic Evaluation 2019, Task 4: Hyperpartisan News Detection (First Place)](https://github.com/GateNLP/semeval2019-hyperpartisan-bertha-von-suttner) 
 
 
