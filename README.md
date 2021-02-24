@@ -17,7 +17,7 @@ My research interests lie in many NLP research topics, including machine learnin
 -  Xingyi Song, Johann Petrak, Ye Jiang, Iknoor Singh, Diana Maynard, and Kalina Bontcheva. “Classification aware neural topic model for COVID-19 disinformation categorisation.” Plos one 16, no. 2, 2021. [PDF](https://journals.plos.org/plosone/article/authors?id=10.1371/journal.pone.0247086)
 
 -  Jiajia Liu, Yimin Wang, Xin Huang, Marianna Korsos, Ye Jiang, Yuming Wang, Robert Erd´elyi. Reliability of AI-generated magnetograms from only EUV images. Nature Astronomy, 2021. [PDF](https://www.nature.com/articles/s41550-021-01310-6)
--  Ye Jiang. "Detecting Journalistic Framing and Attitudes on News Reporting about Climate Change." PhD diss., University of Sheffield, 2020.
+-  Ye Jiang. "Detecting Journalistic Framing and Attitudes on News Reporting about Climate Change." PhD diss., University of Sheffield, 2020. [PDF](https://etheses.whiterose.ac.uk/28296/1/Ye_thesis_corrected.pdf)
 
 -  Ye Jiang, Yimin Wang, Xingyi Song, Diana Maynard. Comparing topic-aware neural networks for bias detection of news. Proceeding of ECAI 2020. [PDF](https://www.researchgate.net/publication/340861256_Comparing_topic-aware_neural_networks_for_bias_detection_of_news)
 
