@@ -2,15 +2,11 @@
 ## About me [[中文]](https://yjiang18.github.io/yejiang.github.io/)
 <img src="https://ye-jiang.github.io/images/my_head.JPG" width="135" height="200" align="right">
 
--  Research associate at the [GATE NLP group ](https://gate.ac.uk/) Department of Computer Science [University of Sheffield](https://www.sheffield.ac.uk/). 
--  [Grantham scholar](http://grantham.sheffield.ac.uk/scholars/jiang/) at the [Grantham Centre for Sustainable Futures](http://grantham.sheffield.ac.uk/).
-
-My research interests lie in many NLP research topics, including machine learning approaches for topic modelling, online disinformation and abuse detection, text classification, document/sentence representation learning and explainable AI. 
+-  I am a associate professor in the College of Information Science and Technology in the Qingdao University of Science and Technology (QUST). Prior to joining QUST, I was a research associate in the Department of Computing Science, University of Sheffield. My research interests lie in many NLP research topics, including machine learning approaches for topic modelling, online misinformation detection, document representation learning and explainable AI. 
 
 ## Contact
 
-*   Address: Room G30, Department of Computer Science, Regent Court, 211 Portobello, Sheffield, S1 4DP, UK.
-*   Email: ye.jiang (AT) sheffield.ac.uk
+*   Email: ye.jiang (AT) qust.edu.cn
 *   [LinkedIn](https://www.linkedin.com/in/ye-jiang-357162175/)
 
 ## Publications
