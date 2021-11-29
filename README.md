@@ -9,6 +9,7 @@
 
 *   Email: ye.jiang (AT) qust.edu.cn
 *   [LinkedIn](https://www.linkedin.com/in/ye-jiang-357162175/)
+*   [Google Scholar](https://scholar.google.com/citations?hl=en&user=QkvwQpAAAAAJ)
 
 ## Publications
 -  Xingyi Song, Johann Petrak, Ye Jiang, Iknoor Singh, Diana Maynard, and Kalina Bontcheva. “Classification aware neural topic model for COVID-19 disinformation categorisation.” Plos one 16, no. 2, 2021. [PDF](https://journals.plos.org/plosone/article/authors?id=10.1371/journal.pone.0247086)
