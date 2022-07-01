@@ -12,6 +12,7 @@
 *   [Google Scholar](https://scholar.google.com/citations?hl=en&user=QkvwQpAAAAAJ)
 
 ## Publications
+- Yi Shao, Jiande Sun, Tianlin Zhang, Ye Jiang, Jianhua Ma, Jing Li. Fake News Detection Based on Multi-Modal Classifier Ensemble. Proceedings of the 1st International Workshop on Multimedia AI against Disinformation, 2022. [PDF](https://dl.acm.org/doi/abs/10.1145/3512732.3533583)
 -  Xingyi Song, Johann Petrak, Ye Jiang, Iknoor Singh, Diana Maynard, and Kalina Bontcheva. “Classification aware neural topic model for COVID-19 disinformation categorisation.” Plos one 16, no. 2, 2021. [PDF](https://journals.plos.org/plosone/article/authors?id=10.1371/journal.pone.0247086)
 
 -  Jiajia Liu, Yimin Wang, Xin Huang, Marianna Korsos, Ye Jiang, Yuming Wang, Robert Erd´elyi. Reliability of AI-generated magnetograms from only EUV images. Nature Astronomy, 2021. [PDF](https://www.nature.com/articles/s41550-021-01310-6)
