@@ -2,7 +2,7 @@
 ## About me
 <img src="https://ye-jiang.github.io/images/my_head.JPG" width="135" height="200" align="right">
 
--  I am a associate professor in the College of Information Science and Technology, Qingdao University of Science and Technology (QUST). Prior to joining QUST, I was a research associate in the Department of Computing Science, University of Sheffield. 
+-  I am associate professor in the College of Information Science and Technology, Qingdao University of Science and Technology (QUST). Prior to joining QUST, I was a research associate in the Department of Computing Science, University of Sheffield. 
 -  My research interests lie in many NLP research topics, including machine learning approaches for topic modelling, online misinformation detection, document representation learning and explainable AI. 
 
 ## Contact
