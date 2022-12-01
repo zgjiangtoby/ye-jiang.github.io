@@ -2,7 +2,7 @@
 ## About me
 <img src="https://ye-jiang.github.io/images/my_head.JPG" width="135" height="200" align="right">
 
-#### I am Associate Professor in the College of Information Science and Technology, Qingdao University of Science and Technology (QUST). Prior to joining QUST, I was a Research Associate in the [GATE](https://gate.ac.uk/) Team, Department of Computing Science, University of Sheffield. 
+#### I am Assistant Professor in the College of Information Science and Technology, Qingdao University of Science and Technology (QUST). Prior to joining QUST, I was a Research Associate in the [GATE](https://gate.ac.uk/) Team, Department of Computing Science, University of Sheffield. 
 
 #### My research interests lie in many NLP research topics, including machine learning approaches for topic modelling, online misinformation detection, document representation learning and explainable AI. 
 
@@ -13,9 +13,10 @@
 *   [Google Scholar](https://scholar.google.com/citations?hl=en&user=QkvwQpAAAAAJ)
 
 ## Publications
+- Ye Jiang, Yimin Wang. Topic-Aware Hierarchical Multi-Attention Network for Text Classification. International Journal of Machine Learning and Cybernetics, 2022. (Accepted) [[PDF]]()
 - Yi Shao, Jiande Sun, Tianlin Zhang, Ye Jiang, Jianhua Ma, Jing Li. Fake News Detection Based on Multi-Modal Classifier Ensemble. Proceedings of the 1st International Workshop on Multimedia AI against Disinformation, 2022. [[PDF]](https://dl.acm.org/doi/abs/10.1145/3512732.3533583)
 -  Xingyi Song, Johann Petrak, Ye Jiang, Iknoor Singh, Diana Maynard, and Kalina Bontcheva. “Classification aware neural topic model for COVID-19 disinformation categorisation.” Plos one 16, no. 2, 2021. [[PDF]](https://journals.plos.org/plosone/article/authors?id=10.1371/journal.pone.0247086)
-
+- Ye Jiang, Xingyi Song, Carolina Scarton, Ahmet Aker, and Kalina Bontcheva. Categorising fine-to-coarse grained misinformation: An empirical study of covid-19 infodemic. arXiv preprint arXiv:2106.11702, 2021.[[PDF]](https://arxiv.org/abs/2106.11702)
 -  Jiajia Liu, Yimin Wang, Xin Huang, Marianna Korsos, Ye Jiang, Yuming Wang, Robert Erd´elyi. Reliability of AI-generated magnetograms from only EUV images. Nature Astronomy, 2021. [[PDF]](https://www.nature.com/articles/s41550-021-01310-6)
 -  Ye Jiang. "Detecting Journalistic Framing and Attitudes on News Reporting about Climate Change." PhD diss., University of Sheffield, 2020. [[PDF]](https://etheses.whiterose.ac.uk/28296/1/Ye_thesis_corrected.pdf)
 
